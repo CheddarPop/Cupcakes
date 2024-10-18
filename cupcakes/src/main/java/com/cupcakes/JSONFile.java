@@ -1,4 +1,4 @@
-package com.sort;
+package com.cupcakes;
 
 import java.io.*;
 import org.json.simple.*;

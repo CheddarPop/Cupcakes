@@ -1,4 +1,4 @@
-package com.sort;
+package com.cupcakes;
 
 import org.json.simple.*;
 
@@ -8,9 +8,9 @@ public class MergeSort {
 
   public static void main(String[] args) {
     String fileName =
-      "/Users/jerom/Documents/GitHub/class-java/sort/demo/src/main/java/com/sort/cupcake_3906.json";
+      "Users/lokia/Documents/GitHub/Cupcakes/cupcakes/src/main/java/com/cupcakes/cupcake_3906.json";
     // String fileName =
-    //   "/Users/jerom/Documents/GitHub/class-java/sort/demo/src/main/java/com/sort/cupcake_10.json";
+    //   "Users/lokia/Documents/GitHub/Cupcakes/cupcakes/src/main/java/com/cupcakes/cupcake_10.json";
     // String fileName =
     //   "/Users/jerom/Documents/GitHub/class-java/sort/demo/src/main/java/com/sort/cupcake_test.json";
 
